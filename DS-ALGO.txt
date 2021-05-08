@@ -1,9 +1,5 @@
 Array
-	
-	Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	Pascal Triangle,Pascal Triangle 2
-	
-
 	Backtracking:
 		-word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
 		-Combination Sum,Combination Sum 2,Combintion Sum 3
@@ -11,7 +7,8 @@ Array
 	2 pointers:
 		-3sum,3sum closet,4sum
 		-Contanier with most water(11),tapping rain water
-
+	DP:
+		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
 Hash Table
 Two pointers
