@@ -1,10 +1,18 @@
 Array
-	3sum,3sum closet,4sum
-	Combination Sum,Combination Sum 2,Combintion Sum 3
-	Contanier with most water,tapping rain water
+	
 	Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	Pascal Triangle,Pascal Triangle 2
-	subsets,subsets2,subset3
+	
+
+	Backtracking:
+		-word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
+		-Combination Sum,Combination Sum 2,Combintion Sum 3
+		-subsets(78),subsets2(90),Word Subset(916)
+	2 pointers:
+		-3sum,3sum closet,4sum
+		-Contanier with most water(11),tapping rain water
+
+	
 Hash Table
 Two pointers
 	3sum,3sum closet,4sum
