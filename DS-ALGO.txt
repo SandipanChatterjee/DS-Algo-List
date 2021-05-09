@@ -7,13 +7,18 @@ Array
 	2 pointers:
 		-3sum,3sum closet,4sum
 		-Contanier with most water(11),tapping rain water
+	Sliding Window
+		-Subarray Product Less Than K(713),209
 	DP:
 		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
 Hash Table
 Two pointers
 	3sum,3sum closet,4sum
-String
+	Sliding Window
+		-424. Longest Repeating Character Replacement
+	
+String	
 Linked-List
 Stack
 Queue
