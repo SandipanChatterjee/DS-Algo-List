@@ -1,4 +1,4 @@
-Array
+Array(DS)
 	Pascal Triangle,Pascal Triangle 2
 	Backtracking:
 		-word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
@@ -12,15 +12,15 @@ Array
 	DP:
 		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
-Hash Table
+Hash Table(DS)
 Two pointers
 	3sum,3sum closet,4sum
 	Sliding Window
 		-424. Longest Repeating Character Replacement
 	
 String	
-Linked-List
-Stack
-Queue
-Tree
-Graph
+Linked-List(DS)
+Stack(DS)
+Queue(DS)
+Tree(DS)
+Graph(DS)
