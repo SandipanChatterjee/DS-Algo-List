@@ -7,13 +7,17 @@ Array(DS)
 	2 pointers:
 		-3sum,3sum closet,4sum
 		-Contanier with most water(11),tapping rain water
-	Sliding Window
-		-Subarray Product Less Than K(713),209
+	Sliding Window:
+		-Subarray Product Less Than K(713),
+		Minimum Size Subarray Sum(209),
+		Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438),
+		Maximum Number of Vowels in a Substring of Given Length(1456),
+		Number of Subsequences That Satisfy the Given Sum Condition(1498)
 	DP:
 		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
 Hash Table(DS)
-Two pointers
+2 pointers
 	3sum,3sum closet,4sum
 	Sliding Window
 		-424. Longest Repeating Character Replacement
