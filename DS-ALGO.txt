@@ -13,6 +13,8 @@ Array(DS)
 		Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438),
 		Maximum Number of Vowels in a Substring of Given Length(1456),
 		Number of Subsequences That Satisfy the Given Sum Condition(1498)
+	Sorting :
+		- 1329,1508,1833,1481
 	DP:
 		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
