@@ -1,30 +1,51 @@
 Array(DS)
-	Pascal Triangle,Pascal Triangle 2
+	-
+		Pascal Triangle,Pascal Triangle 2
 	Backtracking:
-		-word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
-		-Combination Sum,Combination Sum 2,Combintion Sum 3
-		-subsets(78),subsets2(90),Word Subset(916)
+		-
+			word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
+		-
+			Combination Sum,Combination Sum 2,Combintion Sum 3
+		-
+			subsets(78),subsets2(90),Word Subset(916)
 	2 pointers:
-		-3sum,3sum closet,4sum
-		-Contanier with most water(11),tapping rain water
+		-
+			3sum,3sum closet,4sum
+		-	
+			Contanier with most water(11),tapping rain water
 	Sliding Window:
-		-Subarray Product Less Than K(713),
-		Minimum Size Subarray Sum(209),
-		Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438),
-		Maximum Number of Vowels in a Substring of Given Length(1456),
-		Number of Subsequences That Satisfy the Given Sum Condition(1498)
+		-
+			Subarray Product Less Than K(713),
+			Minimum Size Subarray Sum(209),
+			Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438),
+			Maximum Number of Vowels in a Substring of Given Length(1456),
+			Number of Subsequences That Satisfy the Given Sum Condition(1498)
 	Sorting :
 		- 1329,1508,1833,1481
 	Binary search
 		- 33,94,35,74,81,153,167,287,349,350
 	DP:
-		-Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
+		- 
+			Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	
 Hash Table(DS)
-2 pointers
-	3sum,3sum closet,4sum
+	-
+		Contiguous Array(525),
+	-
+		Tuple with Same Product(1726)
+	-
+		Subarray Sum Equals K(560),Subarray Sums Divisible by K(974),Make Sum Divisible by P(1590),Binary Subarrays With Sum(930)
+	-
+		Sort Characters By Frequency(451),Top K Frequent Elements(347)
+
+
+
+2 pointers:
+	-
+		3sum,3sum closet,4sum
 	Sliding Window
-		-424. Longest Repeating Character Replacement
+		-
+			Longest Repeating Character Replacement(424)
 	
 String	
 Linked-List(DS)
