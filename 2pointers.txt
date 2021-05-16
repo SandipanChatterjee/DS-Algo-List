@@ -1,0 +1,8 @@
+
+
+2 pointers:
+	-
+		3sum,3sum closet,4sum
+	Sliding Window
+		-
+			Longest Repeating Character Replacement(424)
