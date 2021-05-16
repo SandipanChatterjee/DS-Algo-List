@@ -1,6 +1,6 @@
 
 
-2 pointers:
+Two pointers:
 	-
 		3sum,3sum closet,4sum
 	Sliding Window

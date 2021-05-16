@@ -8,7 +8,7 @@ Array(DS)
 			Combination Sum,Combination Sum 2,Combintion Sum 3
 		-
 			subsets(78),subsets2(90),Word Subset(916)
-	2 pointers:
+	Two pointers:
 		-
 			3sum,3sum closet,4sum
 		-	
