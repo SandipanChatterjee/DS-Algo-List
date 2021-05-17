@@ -26,7 +26,7 @@ Array(DS)
 	Binary search
 		- 
 			33,94,35,74,81,153,167,287,349,350
-	DP:
+	DP: (DONT DO NOT NEEDED)
 		- 
 			Max Sub Array,Max Product Sub Array,Max Abs sum of sub array,Max Sub array sum after 1 operation
 	

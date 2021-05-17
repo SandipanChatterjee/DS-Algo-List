@@ -3,6 +3,11 @@
 Two pointers:
 	-
 		3sum,3sum closet,4sum
+		80. Remove Duplicates from Sorted Array II
+		485. Max Consecutive Ones
 	Sliding Window
 		-
-			Longest Repeating Character Replacement(424)
+			Longest Repeating Character Replacement(424) X
+			Longest Substring Without Repeating Characters(3)
+			713. Subarray Product Less Than K
+
