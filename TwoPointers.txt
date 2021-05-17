@@ -2,12 +2,20 @@
 
 Two pointers:
 	-
-		3sum,3sum closet,4sum
+		15. 3sum
+		16. 3sum closet
+		18. 4sum
 		80. Remove Duplicates from Sorted Array II
 		485. Max Consecutive Ones
+		75. Sort Colors
+		209. Minimum Size Subarray Sum
+		287. Find the Duplicate Number
+		350. Intersection of Two Arrays II
+
 	Sliding Window
 		-
-			Longest Repeating Character Replacement(424) X
-			Longest Substring Without Repeating Characters(3)
+			424. Longest Repeating Character Replacement
+			3. Longest Substring Without Repeating Characters
 			713. Subarray Product Less Than K
+			1004. Max Consecutive Ones III    
 

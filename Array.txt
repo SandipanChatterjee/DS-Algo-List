@@ -10,7 +10,7 @@ Array(DS)
 			subsets(78),subsets2(90),Word Subset(916)
 	Two pointers:
 		-
-			3sum,3sum closet,4sum
+			3sum(15),3sum closet(16),4sum(18)
 		-	
 			Contanier with most water(11),tapping rain water
 	Sliding Window:
