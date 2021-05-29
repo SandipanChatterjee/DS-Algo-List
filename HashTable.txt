@@ -4,9 +4,7 @@ Hash Table(DS)
 	-
 		Tuple with Same Product(1726)
 	-
-		Subarray Sum Equals K(560),Subarray Sums Divisible by K(974),
-        Make Sum Divisible by P(1590),
-        Binary Subarrays With Sum(930)
+		Subarray Sum Equals K(560),Subarray Sums Divisible by K(974),Make Sum Divisible by P(1590),Binary Subarrays With Sum(930)
 	-
 		Sort Characters By Frequency(451),Top K Frequent Elements(347),Top K Frequent Words(692)
 	-
