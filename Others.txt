@@ -2,4 +2,7 @@
 String	
 Linked-List(DS)
 Stack(DS)
+    1047. Remove All Adjacent Duplicates In String
+    946.  Validate Stack Sequences
+    1190. Reverse Substrings Between Each Pair of Parentheses
 Queue(DS)
