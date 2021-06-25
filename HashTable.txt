@@ -4,12 +4,12 @@ Hash Table(DS)
 	-
 		Tuple with Same Product(1726)
 	-
-		Subarray Sum Equals K(560),Subarray Sums Divisible by K(974),Make Sum Divisible by P(1590),Binary Subarrays With Sum(930)
+		Subarray Sum Equals K(560),Subarray Sums Divisible by K(974), <-- Tough..
+		Make Sum Divisible by P(1590)(Sliding Window appraoch),
+		Binary Subarrays With Sum(930)(Sliding Window appraoch)
 	-
-		Sort Characters By Frequency(451),Top K Frequent Elements(347),Top K Frequent Words(692)
+		Sort Characters By Frequency(451),Top K Frequent Elements(347),Top K Frequent Words(692) <-- check haspMap session in Leetcode.
 	-
-		Valid Sudoku(36)
+		Valid Sudoku(36) <---(Not required)
 	-
 		Repeated DNA Sequences(187)
-	-
-		Binary Subarrays With Sum(930)
