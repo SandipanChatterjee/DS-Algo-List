@@ -3,7 +3,7 @@
 Two pointers:
 	-
 		11.Contanier with most water
-		   Tapping rain water
+		42. Trapping Rain Water
 		15. 3sum
 		16. 3sum closet
 		18. 4sum		
