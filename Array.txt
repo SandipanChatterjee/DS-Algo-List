@@ -8,6 +8,8 @@ Array(DS)
 			Combination Sum,Combination Sum 2,Combintion Sum 3
 		-
 			subsets(78),subsets2(90),Word Subset(916)
+
+			finding triplets in an array
 	Two pointers:
 		-
 			3sum(15),3sum closet(16),4sum(18)
