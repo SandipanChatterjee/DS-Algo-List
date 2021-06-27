@@ -1,14 +1,14 @@
 	
 String	
 Linked-List(DS)
-    2. Add Two Numbers
-    1721. Swapping Nodes in a Linked List
-    445. Add Two Numbers II
-    141	.Linked List Cycle
-    148	Sort List
-    160	Intersection of Two Linked Lists
-    206	Reverse Linked List
-    328	Odd Even Linked List
+    2.      Add Two Numbers
+    1721.   Swapping Nodes in a Linked List
+    445.    Add Two Numbers II
+    141.    Linked List Cycle
+    148.	Sort List
+    160.	Intersection of Two Linked Lists
+    206.	Reverse Linked List
+    328.	Odd Even Linked List
 Stack(DS)
 	20.     Valid Parentheses
     42.	    Trapping Rain Water
