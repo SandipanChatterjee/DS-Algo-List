@@ -1,33 +1,20 @@
 Array(DS)
-	-
-		Pascal Triangle,Pascal Triangle 2
-	Backtracking:
+	Miscellaneous
+		-
+			Pascal Triangle,Pascal Triangle 2
+			Finding triplets in an array
+
+	Backtracking: (HARD)
 		-
 			word search(79),word search2(212),number of island(200),surrounded regions(130),Max Area of Island(695)
 		-
 			Combination Sum,Combination Sum 2,Combintion Sum 3
 		-
 			subsets(78),subsets2(90),Word Subset(916)
-
-			finding triplets in an array
-	Two pointers:
-		-
-			3sum(15),3sum closet(16),4sum(18)
-		-	
-			Contanier with most water(11),tapping rain water
-	Sliding Window:
-		-
-			Subarray Product Less Than K(713),
-			Minimum Size Subarray Sum(209),
-			Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit(1438),
-			Maximum Number of Vowels in a Substring of Given Length(1456),
-			Number of Subsequences That Satisfy the Given Sum Condition(1498)
+			
 	Sorting :
 		- 
 			1329,1508,1833,1481
-	Binary search
-		- 
-			33,35,74,81,167,287,349,350
 	
 
 

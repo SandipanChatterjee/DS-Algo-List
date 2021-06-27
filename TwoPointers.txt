@@ -2,9 +2,11 @@
 
 Two pointers:
 	-
+		11.Contanier with most water
+		   Tapping rain water
 		15. 3sum
 		16. 3sum closet
-		18. 4sum
+		18. 4sum		
 		80. Remove Duplicates from Sorted Array II
 		485. Max Consecutive Ones
 		75. Sort Colors
@@ -12,10 +14,3 @@ Two pointers:
 		287. Find the Duplicate Number
 		350. Intersection of Two Arrays II
 
-	Sliding Window
-		-
-			424. Longest Repeating Character Replacement
-			3. Longest Substring Without Repeating Characters
-			713. Subarray Product Less Than K
-			1004. Max Consecutive Ones III    
-			76.Minimum Window Substring
