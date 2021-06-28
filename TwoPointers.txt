@@ -4,13 +4,35 @@ Two pointers:
 	-
 		11.Contanier with most water
 		42. Trapping Rain Water
-		15. 3sum
-		16. 3sum closet
-		18. 4sum		
+		-
+			15. 3sum, 16. 3sum closet, 18. 4sum		
+
 		80. Remove Duplicates from Sorted Array II
-		485. Max Consecutive Ones
+		485. Max Consecutive Ones (Sliding Window)
 		75. Sort Colors
-		209. Minimum Size Subarray Sum
-		287. Find the Duplicate Number
-		350. Intersection of Two Arrays II
+		209. Minimum Size Subarray Sum (Sliding Window)
+		287. Find the Duplicate Number (haspMap)
+		350. Intersection of Two Arrays II  (hashMap) 
+
+		/*350. Solution*/
+		var intersect = function(nums1, nums2) {
+			let obj = {}
+			for(let el of nums1){
+				if(obj[el])
+					obj[el]++
+				else
+					obj[el]= 1
+			}
+			let arr = []
+			for(let el of nums2){
+				if(obj[el]){
+					arr.push(el)
+					obj[el]--
+				}
+			}
+			return arr
+		};
+
+
+
 
